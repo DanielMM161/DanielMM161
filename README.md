@@ -19,14 +19,14 @@ A Software Developer focus in Mobile Development. In love with Android/Kotlin ‚ù
 [![Gmail Badge](https://img.shields.io/badge/-mmarquezdaniel@outlook.es-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mmarquezdaniel@outlook.es)](mailto:mmarquezdaniel@outlook.es)
 
 ## üöÄ Technologies
-<section>
+
   <h4>FrontEnd</h4>
   <div style="display: flex; gap: 5px">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=white&amp;labelColor=101010" alt="React">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white&amp;labelColor=101010" alt="TypeScript">
     <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&amp;logo=redux&amp;logoColor=white&amp;labelColor=101010" alt="Redux">
   </div>
-</section>
+
 <section>
   <h4>Backend</h4>
   <div style="display: flex; gap: 5px">
