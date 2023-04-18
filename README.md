@@ -52,8 +52,9 @@ Software developer with experience in programming with a preference for backend 
 </section>
 
 ## 💼 Actual Projects
-<h4>FullStack</h4>
+### FullStack
 - [Project Management - with .Net and EntityFramework](https://github.com/DanielMM161/FullStack-ProjectManagement)
+
 <h4>FrontEnd</h4>
 [Ecommerce](https://github.com/DanielMM161/e-commerce-project)
 <h4>Mobile</h4>
