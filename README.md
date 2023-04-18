@@ -25,7 +25,6 @@ A Software Developer focus in Mobile Development. In love with Android/Kotlin ‚ù
 <img height="30" src="https://user-images.githubusercontent.com/49096704/142054544-2049bd79-6356-43dd-8c27-1fdeaac76af4.png">
 <img height="30" src="https://user-images.githubusercontent.com/49096704/142054964-2887a1ca-9746-49df-b057-a35f23e078e4.png">
 
-<table>
   <tr>
     <td>
       <h2>Frontend</h2>
@@ -66,4 +65,4 @@ A Software Developer focus in Mobile Development. In love with Android/Kotlin ‚ù
       </p>
     </td>
   </tr>
-</table>
+
