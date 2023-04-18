@@ -19,7 +19,6 @@ A Software Developer focus in Mobile Development. In love with Android/Kotlin ‚ù
 [![Gmail Badge](https://img.shields.io/badge/-mmarquezdaniel@outlook.es-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mmarquezdaniel@outlook.es)](mailto:mmarquezdaniel@outlook.es)
 
 ## üöÄ Technologies
-<br/><br/>
 <section>
   <h4>FrontEnd</h4>
   <div style="display: flex; gap: 5px">
