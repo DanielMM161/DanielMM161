@@ -1,17 +1,15 @@
 ### Hi there, I'm Daniel 👋
-A Software Developer focus in Mobile Development. In love with Android/Kotlin ❤
+Software developer with experience in programming with a preference for backend development. I'm passionate about creating software products using a variety of technologies, from web to native mobile and REST API.
 
 **👨‍💻 About me**
 
-- 💼 I'm currently searching for a Android Developer or Mobile Development Position 
+- 💼 I'm currently searching for a Fullstack, Backend or Frontend Position
 
-- ❤️ I love writing Kotlin
+- ❤️ I love writing in C#, TypeScript and Kotlin
 
 - 💬 Ask me about anything [here](mailto:mmarquezdaniel@outlook.es)
 
-- 🚀  I'm diving into in Android Jetpack Compose and learning Flutter
-
-- ✈️ My goal for my next project is create my own backend
+- 🚀  I'm diving into .Net 
 
 ## :speech_balloon: Contact me!
 
