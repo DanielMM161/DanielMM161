@@ -18,12 +18,12 @@ Software developer with experience in programming with a preference for backend 
 
 ## 🚀 Technologies
 
-  <h4>FrontEnd</h4>
-  <div style="display: flex; gap: 5px">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=white&amp;labelColor=101010" alt="React">
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white&amp;labelColor=101010" alt="TypeScript">
-    <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&amp;logo=redux&amp;logoColor=white&amp;labelColor=101010" alt="Redux">
-  </div>
+<h4>FrontEnd</h4>
+<div style="display: flex; gap: 5px">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=white&amp;labelColor=101010" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white&amp;labelColor=101010" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&amp;logo=redux&amp;logoColor=white&amp;labelColor=101010" alt="Redux">
+</div>
 
 <section>
   <h4>Backend</h4>
@@ -50,4 +50,16 @@ Software developer with experience in programming with a preference for backend 
      <img src="https://img.shields.io/badge/Azure%20Cloud-0089D6?logo=microsoft-azure&logoColor=white&labelColor=101010&style=for-the-badge" alt="Azure">
   </div>
 </section>
+
+## 💼 Actual Projects
+<h4>FullStack</h4>
+[Project Management - with .Net and EntityFramework](https://github.com/DanielMM161/FullStack-ProjectManagement)
+<h4>FrontEnd</h4>
+[Ecommerce](https://github.com/DanielMM161/e-commerce-project)
+<h4>Mobile</h4>
+[Bee Rss](https://github.com/DanielMM161/BeeRss)
+[Cheap Pc Games](https://github.com/DanielMM161/CheapPcGames)
+[Easy Note](https://github.com/DanielMM161/EasyNote)
+[Weather App](https://github.com/DanielMM161/WeatherCompose)
+
 
