@@ -55,12 +55,13 @@ Software developer with experience in programming with a preference for backend 
 ### FullStack
 - [Project Management - with .Net and EntityFramework](https://github.com/DanielMM161/FullStack-ProjectManagement)
 
-<h4>FrontEnd</h4>
-[Ecommerce](https://github.com/DanielMM161/e-commerce-project)
-<h4>Mobile</h4>
-[Bee Rss](https://github.com/DanielMM161/BeeRss)
-[Cheap Pc Games](https://github.com/DanielMM161/CheapPcGames)
-[Easy Note](https://github.com/DanielMM161/EasyNote)
-[Weather App](https://github.com/DanielMM161/WeatherCompose)
+### FrontEnd
+- [Ecommerce](https://github.com/DanielMM161/e-commerce-project)
+
+### Mobile
+- [Bee Rss](https://github.com/DanielMM161/BeeRss)
+- [Cheap Pc Games](https://github.com/DanielMM161/CheapPcGames)
+- [Easy Note](https://github.com/DanielMM161/EasyNote)
+- [Weather App](https://github.com/DanielMM161/WeatherCompose)
 
 
