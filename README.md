@@ -1,4 +1,4 @@
-### Hi there, I'm Daniel 👋
+# Hi there, I'm Daniel 👋
 Software developer with experience in programming with a preference for backend development. I'm passionate about creating software products using a variety of technologies, from web to native mobile and REST API.
 
 **👨‍💻 About me**
