@@ -18,7 +18,7 @@ A Software Developer focus in Mobile Development. In love with Android/Kotlin ‚ù
 [![Linkedin Badge](https://img.shields.io/badge/-DanielMoreno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-moreno-m%C3%A1rquez-998b33189/)](https://www.linkedin.com/in/daniel-moreno-m%C3%A1rquez-998b33189/)
 [![Gmail Badge](https://img.shields.io/badge/-mmarquezdaniel@outlook.es-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mmarquezdaniel@outlook.es)](mailto:mmarquezdaniel@outlook.es)
 
-**üöÄ Technologies**
+## üöÄ Technologies
 <br/><br/>
 <img height="30" src="https://user-images.githubusercontent.com/49096704/142054706-4e4b6ff0-e2b8-4870-bf74-23e193676300.png">
 <img height="30" src="https://user-images.githubusercontent.com/49096704/142054379-fa1b1150-e910-4da3-bf7b-6e0b8ffc6da0.png">
@@ -26,11 +26,12 @@ A Software Developer focus in Mobile Development. In love with Android/Kotlin ‚ù
 <img height="30" src="https://user-images.githubusercontent.com/49096704/142054964-2887a1ca-9746-49df-b057-a35f23e078e4.png">
 
 <section>
+  <h2>FrontEnd</h2>
   <div style="display: flex; gap: 5px">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=white&amp;labelColor=101010" alt="React">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white&amp;labelColor=101010" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&amp;logo=redux&amp;logoColor=white&amp;labelColor=101010" alt="Redux">
-</div>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=white&amp;labelColor=101010" alt="React">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white&amp;labelColor=101010" alt="TypeScript">
+    <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&amp;logo=redux&amp;logoColor=white&amp;labelColor=101010" alt="Redux">
+  </div>
 </section>
 
 
