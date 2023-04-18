@@ -26,7 +26,7 @@ A Software Developer focus in Mobile Development. In love with Android/Kotlin ‚ù
 <img height="30" src="https://user-images.githubusercontent.com/49096704/142054964-2887a1ca-9746-49df-b057-a35f23e078e4.png">
 
 <section>
-  <h2>FrontEnd</h2>
+  <h4>FrontEnd</h4>
   <div style="display: flex; gap: 5px">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=white&amp;labelColor=101010" alt="React">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white&amp;labelColor=101010" alt="TypeScript">
